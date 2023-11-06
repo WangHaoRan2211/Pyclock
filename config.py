@@ -1,0 +1,9 @@
+haveExitbutt=1
+fullscreen=1
+backColor='#000000'
+foreColor='#ffffff'
+overrideredirect=1
+uptime=5
+font='consolas'
+font_size=100
+time_format="%Y-%m-%d %H:%M:%S"
